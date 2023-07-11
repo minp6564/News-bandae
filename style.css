@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+h2 {
+  text-align: center;
+  white-space: wrap;
+}
+
+.img {
+  text-align: center;
+}
+
+header {
+  background-color: tomato;
+}
+
+a {
+  line-height: 1.5em;
+}
+
+.index {
+  color: gray;
+  font-size: 9px;
+}
+
+.imagetext {
+  font-size: 9px;
+  line-height: 0.1em;
+
+}
